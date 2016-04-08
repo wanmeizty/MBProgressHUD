@@ -3,7 +3,7 @@
 //  HudDemo
 //
 //  Created by Matej Bukovinski on 30.9.09.
-//  Copyright bukovinski.com 2009-2015. All rights reserved.
+//  Copyright wanmeizty 2009-2015. All rights reserved.
 //
 
 #import "MBHudDemoViewController.h"
